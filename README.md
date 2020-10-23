@@ -6,6 +6,10 @@
 
 <h1 align="center">:camera_flash: Screenshot</h1>
 
+<div align="center">
+  <img src=".github/desktop.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
+</div>
+
 ## :computer: Projeto
 
 Clone da interface do google para fins acadêmicos.
@@ -16,8 +20,8 @@ Clone da interface do google para fins acadêmicos.
 
 ## :arrow_down: Instalação
 
-- `git clone `;
-- `cd `;
+- `git clone https://github.com/Rogerluiz0/clone-google-home.git`;
+- `cd clone-google-home`;
 - `npm install`;
 - `npm start`.
 
