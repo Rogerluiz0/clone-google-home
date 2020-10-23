@@ -1,9 +1,5 @@
 <h1 align="center">UI Clone - Google (Homepage)</h1>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5568f9&labelColor=111116">
-</p>
-
 <h1 align="center">:camera_flash: Screenshot</h1>
 
 <div align="center">
@@ -33,7 +29,3 @@ Clone da interface do google para fins acadêmicos.
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
