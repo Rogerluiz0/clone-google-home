@@ -16,7 +16,7 @@ Clone da interface do google para fins acadêmicos.
 
 ## :arrow_down: Instalação
 
-- `git clone https://github.com/Rogerluiz0/clone-google-home.git`;
+- `git clone https://github.com/roger3g/clone-google-home.git`;
 - `cd clone-google-home`;
 - `npm install`;
 - `npm start`.
